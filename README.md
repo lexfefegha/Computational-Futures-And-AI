@@ -89,24 +89,34 @@ On completion of this unit you will be able to:
 ## Reading List (Will be updated weekly)
 **Core Text:**  
 Bratton, B.H. (2016) The Stack: On Software and Sovereignty. MIT Press.
+
 Engelbart, D. (1962). Augmenting Human Intellect: A Conceptual Framework.
+
 Dourish, P. (2017). The Stuff of Bits: An Essay on the Materialities of Information. MIT Press.
+
 Karparthy, A, Hacker’s guide to Neural Networks
 http://karpathy.github.io/neuralnets/
+
 Manovich, L. (2013) Software Takes Command. A&C Black.
+
 Montgomery, E. P, & Woebken, C. (2016). Extrapolation factory operator's manual. New York: Extrapolationfactory.com.
+
 Dunne, A. & Raby, F. (2014). Speculative Everything: design, fiction and social dreaming. MIT Press.
+
 Bleecker, J. (2009). Design fiction: A short essay on design, science, fact and fiction, Near Future Laboratory, Los Angeles, CA,
+
 Bleecker, (2011). Design Fiction: From Props To Prototypes, Negotiating Futures / Design Fictions, Swiss Design Network 2011, Basel.
+
 Kirby, D. (2010). The future is now: Diegetic prototypes and the role of popular films in generating real-world technological development. Social Studies of Science 40 (1), pp. 41-70.
+
 O’Regan, G. (2012). A Brief History of Computing. Springer Science & Business Media.
 
 ---
 
 ## Weekly Schedule (Will be updated)
-### Week 1 2nd October
+### Week 1 (2nd October)
 Seminar: Introduction Lesson (Slides for this lesson are in the slide folder)
-\\\\ Intro to Alex Fefegha's practice and his work exploring AI & creativity. We will then read "Man Computer Man-Computer Symbosis" & share thoughts on it.
+\\\\ Intro to Alex Fefegha's practice and his work exploring AI & creativity. We will then read "Man Computer Man-Computer Symbosis" & share our thoughts on it.
 
 **Assignment:**  
 
