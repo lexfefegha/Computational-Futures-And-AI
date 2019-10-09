@@ -1,6 +1,6 @@
 # Computational Futures and AI (Autumn 2019/20)
 Tutor: Alexander Fefegha  
-Tutor email: @ual.ac.uk  
+Tutor email: a.fefeghaetta@ual.ac.uk  
 UAL CCI Slack: @AlexFefegha  
 Session Times: Wednesday 9.30-1.30 
 Location: CCI 5th Floor Block B
@@ -115,7 +115,7 @@ O’Regan, G. (2012). A Brief History of Computing. Springer Science & Business 
 
 ## Weekly Schedule (Will be updated)
 ### Week 1 (2nd October)
-Seminar: Introduction Lesson (Slides for this lesson are in the slide folder)
+Seminar: Introduction Lesson <i>(Slides for this lesson are in the slide folder)</i>
 \\\\ Intro to Alex Fefegha's practice and his work exploring AI & creativity. We will then read "Man Computer Man-Computer Symbosis" & share our thoughts on it.
 
 **Assignment:**  
@@ -129,6 +129,31 @@ N/A
 **Recommended Reading:**  
  Licklider, J.C.R., "Man-Computer Symbiosis", IRE Transactions on Human Factors in Electronics, vol. HFE-1, 4-11, Mar 1960. Eprint.
 
+---
+
+### Week 2 (9th October)
+Seminar/Studio: Experiential Futures <i>(Slides for this lesson are in the slide folder)</i>
+\\\\ An introduction to Experiential Futures, a brief history on future studies, exploring how futures and design intersect with each other & conducting a ethnographic experiential futures exercise.
+
+**Assignment:**  
+
++ Read:
+Future-Oriented Design by Alex Fefegha 
+Accessible here at https://medium.com/thoughts-and-reflections/future-oriented-design-c8b4a458a722"
+
++ Using the principles thought in class:
+N/A
+
+**Recommended Reading:**  
+Montgomery, E. P, & Woebken, C. (2016). Extrapolation factory operator's manual. New York: Extrapolationfactory.com.
+
+Dunne, A. & Raby, F. (2014). Speculative Everything: design, fiction and social dreaming. MIT Press.
+
+Bleecker, J. (2009). Design fiction: A short essay on design, science, fact and fiction, Near Future Laboratory, Los Angeles, CA,
+
+Bleecker, (2011). Design Fiction: From Props To Prototypes, Negotiating Futures / Design Fictions, Swiss Design Network 2011, Basel.
+
+Kirby, D. (2010). The future is now: Diegetic prototypes and the role of popular films in generating real-world technological development. Social Studies of Science 40 (1), pp. 41-70.
 ---
 
 # Resources (Will be updated weekly)
