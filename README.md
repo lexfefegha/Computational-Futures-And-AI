@@ -139,7 +139,11 @@ Seminar/Studio: Experiential Futures <i>(Slides for this lesson are in the slide
 
 + Read:
 Future-Oriented Design by Alex Fefegha 
-Accessible here at https://medium.com/thoughts-and-reflections/future-oriented-design-c8b4a458a722"
+Accessible here at https://medium.com/thoughts-and-reflections/future-oriented-design-c8b4a458a722
+
++ Listen:
+Philip Battin & Curtis Flanagan, Seed Studio,a Google design team working on future-forward creative concepts for human-centered technology.
+Accessible here at http://googledesignmethod.libsyn.com/philip-battin-curtis-flanagan-seed-studio
 
 + Using the principles thought in class:
 N/A
@@ -158,8 +162,5 @@ Kirby, D. (2010). The future is now: Diegetic prototypes and the role of popular
 
 # Resources (Will be updated weekly)
 COMING!
-
-
-
 
 ---
