@@ -158,6 +158,7 @@ Bleecker, J. (2009). Design fiction: A short essay on design, science, fact and 
 Bleecker, (2011). Design Fiction: From Props To Prototypes, Negotiating Futures / Design Fictions, Swiss Design Network 2011, Basel.
 
 Kirby, D. (2010). The future is now: Diegetic prototypes and the role of popular films in generating real-world technological development. Social Studies of Science 40 (1), pp. 41-70.
+
 ---
 
 # Resources (Will be updated weekly)
