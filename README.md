@@ -142,7 +142,7 @@ Future-Oriented Design by Alex Fefegha
 Accessible here at https://medium.com/thoughts-and-reflections/future-oriented-design-c8b4a458a722
 
 + Listen:
-Philip Battin & Curtis Flanagan, Seed Studio,a Google design team working on future-forward creative concepts for human-centered technology.
+Philip Battin & Curtis Flanagan, Seed Studio, a Google design team working on future-forward creative concepts for human-centered technology.
 Accessible here at http://googledesignmethod.libsyn.com/philip-battin-curtis-flanagan-seed-studio
 
 + Using the principles thought in class:
@@ -161,7 +161,44 @@ Kirby, D. (2010). The future is now: Diegetic prototypes and the role of popular
 
 ---
 
-# Resources (Will be updated weekly)
-COMING!
+### Week 3 (16th October)
+Seminar/Studio: The Anatomy of An AI System <i>(Slides for this lesson are in the slide folder)</i>
+\\\\  An introduction to machine learning + creativity and the tools/frameworks used to make cool stuff! (ML5.js)
+
+**Assignment:**  
+
++ Watch:
+Body, Movement, Language 
+Accessible here at https://www.billtjonesai.com/
+
++ Read:
+Real-time Human Pose Estimation in the Browser with TensorFlow.js
+Accessible here at https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5
+
++ Make:
+Taking the work we did in class using the Ml5 library for PoseNet.
+I would like for you to build a clown face.
+
+Here's my example from class - https://editor.p5js.org/fefegha/sketches/_tvCyvC6N
+
+**Recommended Reading:**  
+Crawford, K. and Joler, V. (2018). Anatomy of an AI System. [online]Anatomyof.ai. Available at: https://anatomyof.ai/img/ai-anatomy-publication.pdf [Accessed 13 Oct. 2019].
+ 
+Hertzmann, A. (2018). Can Computers Create Art? Arts 7, 18 
+
+Agüera y Arcas, B. (2017) Art in the Age of Machine Intelligence. Arts, 6, 18
+
+**Resources**
+PoseNet (Ml5.js) 
+Accessible here at https://ml5js.github.io/ml5-library/docs/#/reference/posenet
+
+Pose Estimation (Tensorflow.js) 
+Accessible here at https://www.tensorflow.org/lite/models/pose_estimation/overview
+
+Maya Man (Creative Technologist)
+Accessible here at https://mayaontheinter.net
+
+Google Experiments with AI 
+Accessible here at https://experiments.withgoogle.com/collection/ai
 
 ---
