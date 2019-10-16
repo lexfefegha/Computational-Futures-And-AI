@@ -172,9 +172,7 @@ Seminar/Studio: The Anatomy of An AI System <i>(Slides for this lesson are in th
 
 + Make:
 Taking the work we did in class using the Ml5 library for PoseNet.
-I would like for you to build a clown face.
-
-[Here's my example from class](https://editor.p5js.org/fefegha/sketches/_tvCyvC6N)
+I would like for you to build a clown face. [Here's my example from class](https://editor.p5js.org/fefegha/sketches/_tvCyvC6N)
 
 **Recommended Reading:**  
 
