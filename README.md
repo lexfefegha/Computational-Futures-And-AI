@@ -182,13 +182,15 @@ I would like for you to build a clown face.
 Here's my example from class - https://editor.p5js.org/fefegha/sketches/_tvCyvC6N
 
 **Recommended Reading:**  
+
 Crawford, K. and Joler, V. (2018). Anatomy of an AI System. [online]Anatomyof.ai. Available at: https://anatomyof.ai/img/ai-anatomy-publication.pdf [Accessed 13 Oct. 2019].
  
 Hertzmann, A. (2018). Can Computers Create Art? Arts 7, 18 
 
 Agüera y Arcas, B. (2017) Art in the Age of Machine Intelligence. Arts, 6, 18
 
-**Resources**
+**Resources:**
+
 PoseNet (Ml5.js) 
 Accessible here at https://ml5js.github.io/ml5-library/docs/#/reference/posenet
 
