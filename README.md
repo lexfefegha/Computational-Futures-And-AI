@@ -1,6 +1,6 @@
 # Computational Futures and AI (Autumn 2019/20)
 Tutor: Alexander Fefegha  
-Tutor email: a.fefeghaetta@ual.ac.uk  
+Tutor email: ********@ual.ac.uk  
 UAL CCI Slack: @AlexFefegha  
 Session Times: Wednesday 9.30-1.30 
 Location: CCI 5th Floor Block B
