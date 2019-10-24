@@ -193,3 +193,36 @@ Agüera y Arcas, B. (2017) Art in the Age of Machine Intelligence. Arts, 6, 18
 [Google Experiments with AI](https://experiments.withgoogle.com/collection/ai)
 
 ---
+
+### Week 4 (23th October)
+Seminar/Studio: How do we as creatives explore with a future with AI? <i>(Slides for this lesson are in the slide folder)</i>
+\\\\  An introduction to Future Crafting, A Speculative Method for an Imaginative AI by Betti Marenko and exploring ImageNet, and creating our own image classifier with ML5 & P5.js .
+
+**Assignment:**  
+
++ Reflect
+With the image classifier that you created in class, try it out on ten different objects around you. 
+
+Does the image classifier give a high confidence score? 
+
+Did it succeed in recognizing an object? 
+
+Think about the different things that could or may affect the image classification? 
+
+**Recommended Reading:**  
+
+Marenko, B. (2018) FutureCrafting. A Speculative Method for an Imaginative AI. In: AAAI Spring Symposium Series. Technical Report SS-18. Association for the Advancement of Artificial Intelligence, Palo Alto, California, pp. 419-422. 
+ 
+[Crawford, K., and Paglen T. (2019) Excavating AI The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai)
+
+[Rohilla, H (2018) Designing For Future: Speculative Design Research For A Data Obsessed Society.](http://himanshurohilla.com/wp-content/uploads/2018/06/Designing-For-Future_Speculative-Design-Research-for-a-Data-Obsessed-Society.pdf)
+
+**Resources:**
+
+[ImageNet](http://www.image-net.org/)
+
+[imageClassifier (ML5.js)](https://ml5js.org/reference/api-ImageClassifier/)
+
+[Image Classification using Deep Neural Networks — A beginner friendly approach using TensorFlow](https://medium.com/@tifa2up/image-classification-using-deep-neural-networks-a-beginner-friendly-approach-using-tensorflow-94b0a090ccd4)
+
+---
