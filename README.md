@@ -114,7 +114,7 @@ O’Regan, G. (2012). A Brief History of Computing. Springer Science & Business 
 
 ## Weekly Schedule (Will be updated)
 ### Week 1 (2nd October)
-Seminar: Introduction Lesson <i>(Slides for this lesson are in the slide folder)</i>
+Seminar: Introduction Lesson
 \\\\ Intro to Alex Fefegha's practice and his work exploring AI & creativity. We will then read "Man Computer Man-Computer Symbosis" & share our thoughts on it.
 
 **Assignment:**  
@@ -131,7 +131,7 @@ N/A
 ---
 
 ### Week 2 (9th October)
-Seminar/Studio: Experiential Futures <i>(Slides for this lesson are in the slide folder)</i>
+Seminar/Studio: Experiential Futures
 \\\\ An introduction to Experiential Futures, a brief history on future studies, exploring how futures and design intersect with each other & conducting a ethnographic experiential futures exercise.
 
 **Assignment:**  
@@ -159,7 +159,7 @@ Kirby, D. (2010). The future is now: Diegetic prototypes and the role of popular
 ---
 
 ### Week 3 (16th October)
-Seminar/Studio: The Anatomy of An AI System <i>(Slides for this lesson are in the slide folder)</i>
+Seminar/Studio: The Anatomy of An AI System
 \\\\  An introduction to machine learning + creativity and the tools/frameworks used to make cool stuff! (ML5.js)
 
 **Assignment:**  
@@ -195,19 +195,12 @@ Agüera y Arcas, B. (2017) Art in the Age of Machine Intelligence. Arts, 6, 18
 ---
 
 ### Week 4 (23th October)
-Seminar/Studio: How do we as creatives explore with a future with AI? <i>(Slides for this lesson are in the slide folder)</i>
-\\\\  An introduction to Future Crafting, A Speculative Method for an Imaginative AI by Betti Marenko and exploring ImageNet, and creating our own image classifier with ML5 & P5.js .
+Seminar/Studio: How do we as creatives explore with a future with AI?
+\\\\  An introduction to Future Crafting, A Speculative Method for an Imaginative AI by Betti Marenko and exploring ImageNet, and creating our own image classifier with ML5 & P5.
 
 **Assignment:**  
 
-+ Reflect
-With the image classifier that you created in class, try it out on ten different objects around you. 
-
-Does the image classifier give a high confidence score? 
-
-Did it succeed in recognizing an object? 
-
-Think about the different things that could or may affect the image classification? 
++ Reflect: With the image classifier that you created in class, try it out on ten different objects around you. Does the image classifier give a high confidence score? Did it succeed in recognizing an object? Think about the different things that could or may affect the image classification? Use this [list](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a) of 1000 ImageNet Classes to guide you too.
 
 **Recommended Reading:**  
 
@@ -224,5 +217,7 @@ Marenko, B. (2018) FutureCrafting. A Speculative Method for an Imaginative AI. I
 [imageClassifier (ML5.js)](https://ml5js.org/reference/api-ImageClassifier/)
 
 [Image Classification using Deep Neural Networks — A beginner friendly approach using TensorFlow](https://medium.com/@tifa2up/image-classification-using-deep-neural-networks-a-beginner-friendly-approach-using-tensorflow-94b0a090ccd4)
+
+[List of 1000 ImageNet Classes](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a)
 
 ---
