@@ -131,7 +131,7 @@ N/A
 ---
 
 ### Week 2 (9th October)
-Seminar/Studio: Experiential Futures
+Studio: Experiential Futures
 \\\\ An introduction to Experiential Futures, a brief history on future studies, exploring how futures and design intersect with each other & conducting a ethnographic experiential futures exercise.
 
 **Assignment:**  
@@ -159,7 +159,7 @@ Kirby, D. (2010). The future is now: Diegetic prototypes and the role of popular
 ---
 
 ### Week 3 (16th October)
-Seminar/Studio: The Anatomy of An AI System
+Studio: The Anatomy of An AI System
 \\\\  An introduction to machine learning + creativity and the tools/frameworks used to make cool stuff! (ML5.js)
 
 **Assignment:**  
@@ -219,5 +219,29 @@ Marenko, B. (2018) FutureCrafting. A Speculative Method for an Imaginative AI. I
 [Image Classification using Deep Neural Networks — A beginner friendly approach using TensorFlow](https://medium.com/@tifa2up/image-classification-using-deep-neural-networks-a-beginner-friendly-approach-using-tensorflow-94b0a090ccd4)
 
 [List of 1000 ImageNet Classes](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a)
+
+---
+
+### Week 5 (30th October)
+Studio: Invisible Mask
+\\\\  An introduction to Alex's project exhibited at MozFest2019 which was a speculative provocation exploring the attack on human agency and autonomy by facial recognition technologies and the introduction to retraining a machine learning model.
+
+**Assignment:**  
+
++ Create: Make a guide for someone from a marginalized group on how to use a invisible mask. Use the Invisible Mask world building guide created by Alex to aid you in your ideation. This would be a group presentation in class. 
+
+**Recommended Reading:**  
+
+de Vries, P. and Schinkel, W. (2019) ‘Algorithmic anxiety: Masks and camouflage in artistic imaginaries of facial recognition algorithms’, Big Data & Society.
+
+Blas Z (2014) Informatic opacity. The Journal of Aesthetics & Protest. 
+
+Blas Z (2016) Infomatic opacity. In: The Black Chamber: Surveillance, Paranoia, Invisibility & the Internet. Brescia: Link Editions & Ljubljana. Aksioma, pp. 40–51.
+
+**Resources:**
+
+[How to build a Teachable Machine with TensorFlow.js](https://observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-tensorflow-js)
+
+[featureExtractor (ML5.js)](https://learn.ml5js.org/docs/#/reference/feature-extractor)
 
 ---
