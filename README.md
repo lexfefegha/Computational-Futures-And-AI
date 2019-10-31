@@ -228,7 +228,7 @@ Studio: Invisible Mask
 
 **Assignment:**  
 
-+ Create: Make a guide for someone from a marginalized group on how to use a invisible mask. Use the Invisible Mask world building guide created by Alex to aid you in your ideation. This would be a group presentation in class. 
++ Try to finish the feature extraction with image classification example that Alex was teaching in lesson using [Visual Studio Code](https://code.visualstudio.com/). The p5.js sketch is [here](https://editor.p5js.org/fefegha/sketches/-lqWn6k9Y)
 
 **Recommended Reading:**  
 
