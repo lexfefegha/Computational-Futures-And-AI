@@ -52,9 +52,15 @@ On completion of this unit you will be able to:
 ## Unit Content & Assessment 
 
 **Unit Assessment Summary -  This unit is assessed holistically**  
-**Assignment Description**
+**Assignment Description (2,000 words essay)**
 
-+ You are asked to produce an essay of at least 2000 words that answers the supplied essay question (100%). (ESSAY QUESTION WILL BE SHARED IN COUPLE WEEKS)
++ Using examples, identify and develop an essay containing three case studies that exemplify an argument of how artificial intelligence is culturally constructed or explained.
+
++ Your case studies should triangulate a key argument that explores how narratives, myths and rhetoric develops around AI and how these are challenged or counteracted. misused or exploited, where deviance enters the use case, or where they are used out of their assumed context. 
+
++ Your case studies may be drawn from commercial, activist, artistic or other fields.
+
++ The best way to approach your essay is by doing a 400 word introduction <i>(What is machine learning? How do machines learn? AHistorical overview?)</i>, 400 words per case study <i>(Work by artists? Work by ML researchers? Work by authors? Work by designers?Work by governments? Work by companies?)</i>, 400 words conclusion <i>(Based on all you absorbed and conducted, what would your artistic speculation provocation on machine learning be?)</i>
 
 ---
 
@@ -243,5 +249,37 @@ Blas Z (2016) Infomatic opacity. In: The Black Chamber: Surveillance, Paranoia, 
 [How to build a Teachable Machine with TensorFlow.js](https://observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-tensorflow-js)
 
 [featureExtractor (ML5.js)](https://learn.ml5js.org/docs/#/reference/feature-extractor)
+
+---
+
+### Week 6 (6th November)
+Studio: Recap
+\\\\  An introduction to the essay for this module, a recap on what has been taught so far & play with PoseNet again!
+
+**Assignment:**  
+
++ Work in a group to create a guide for someone from a marginalized community on how to use a[invisible mask](https://www.comuzi.xyz/invisiblemask.html). 
+
++ This is to be presented to the class next week. 
+
++ Check course content folder for Week 6 to see worksheet that should help you map out your presentation.
+
+**Recommended Reading:**  
+
+Schmitt, P. (2019), [Humans of AI](https://humans-of.ai/editorial)
+
+**Resources:**
+
+[A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+[Elements of AI online course)](https://course.elementsofai.com/)
+
+[Move Mirror: An AI Experiment with Pose Estimation in the Browser using TensorFlow.js](https://medium.com/tensorflow/move-mirror-an-ai-experiment-with-pose-estimation-in-the-browser-using-tensorflow-js-2f7b769f9b23)
+
+[ml5: Friendly Open Source Machine Learning Library for the Web](https://medium.com/ml5js/ml5-friendly-open-source-machine-learning-library-for-the-web-e802b5da3b2)
+
+[CCI's very own Rebecca Fiebrink talking about Machine Learning for Human Creative Practice](https://vimeo.com/287094397)
+
+[Machine learning for artists](https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097)
 
 ---
