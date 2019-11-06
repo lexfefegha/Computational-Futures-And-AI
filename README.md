@@ -252,7 +252,7 @@ Blas Z (2016) Infomatic opacity. In: The Black Chamber: Surveillance, Paranoia, 
 
 ---
 
-### Week 6 (6th November)
+### Week 6 (Was for 6th November, moved to 11th of November as Alex was ill)
 Studio: Recap
 \\\\  An introduction to the essay for this module, a recap on what has been taught so far & play with PoseNet again!
 
