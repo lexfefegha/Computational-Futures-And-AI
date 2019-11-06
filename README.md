@@ -186,7 +186,7 @@ Crawford, K. and Joler, V. (2018). [Anatomy of an AI System.](https://anatomyof.
  
 Hertzmann, A. (2018). Can Computers Create Art? Arts 7, 18 
 
-Agüera y Arcas, B. (2017) Art in the Age of Machine Intelligence. Arts, 6, 18
+Agüera y Arcas, B. (2017). Art in the Age of Machine Intelligence. Arts, 6, 18
 
 **Resources:**
 
@@ -266,7 +266,9 @@ Studio: Recap
 
 **Recommended Reading:**  
 
-Schmitt, P. (2019), [Humans of AI](https://humans-of.ai/editorial)
+Schmitt, P. (2019). [Humans of AI](https://humans-of.ai/editorial)
+
+Hebron, P. (2016). [Machine Learning for Designers](https://www.oreilly.com/library/view/machine-learning-for/9781491971444/ch01.html)
 
 **Resources:**
 
