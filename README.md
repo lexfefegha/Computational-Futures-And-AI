@@ -116,6 +116,33 @@ Kirby, D. (2010). The future is now: Diegetic prototypes and the role of popular
 
 O’Regan, G. (2012). A Brief History of Computing. Springer Science & Business Media.
 
+Zuboff, S. (2018). The age of surveillance capitalism: the fight for the future at the new frontier of power. London, Profile Books.
+
+Finn, E. (2017). What algorithms want: Imagination in the Age of Computing. Cambridge, Massachusetts, MIT Press.
+
+Salter, C., & Pickering, A. (2015). Alien Agency: Experimental Encounters with Art in the Making. Cambridge, Massachusetts, The MIT Press.
+
+Noble, S. U. (2018). Algorithms of oppression: how search engines reinforce racism.
+
+O'Neil, C. (2016). Weapons of math destruction: How big data increases inequality and threatens democracy.
+
+Srnicek, N., & Williams, A. (2015). Inventing the future: Postcapitalism and a world without work.
+
+Graeber, D. (2016). The utopia of rules: On technology, stupidity, and the secret joys of bureaucracy.
+
+Greenfield, A. (2018). Radical technologies: The design of everyday life.
+
+Halpern, O. (2014). Beautiful Data: A History of Vision and Reason since 1945. Durham, NC, Duke University Press.
+
+In Nafus, D. (2016). Quantified: Biosensing technologies in everyday life.
+
+Shadbolt, N., & Hampson, R. (2019). The digital ape: How to live (in peace) with smart machines.
+
+Cheney-Lippold, J. (2019). We are data: Algorithms and the making of our digital selves. New York, N.Y: New York University Press.
+
+Perez, C. C. (2019). Invisible women: Exposing data bias in a world designed for men. London: Vintage Books.
+
+
 ---
 
 ## Weekly Schedule (Will be updated)
