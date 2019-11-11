@@ -1,4 +1,4 @@
-# Computational Futures and AI (Autumn 2019/20)
+# Introduction to Computational Futures and AI (Autumn 2019/20)
 Tutor: Alexander Fefegha  
 Tutor email: ********@ual.ac.uk  
 UAL CCI Slack: @AlexFefegha  
@@ -142,7 +142,6 @@ Cheney-Lippold, J. (2019). We are data: Algorithms and the making of our digital
 
 Perez, C. C. (2019). Invisible women: Exposing data bias in a world designed for men. London: Vintage Books.
 
-
 ---
 
 ## Weekly Schedule (Will be updated)
@@ -285,11 +284,7 @@ Studio: Recap
 
 **Assignment:**  
 
-+ Work in a group to create a guide for someone from a marginalized community on how to use a[invisible mask](https://www.comuzi.xyz/invisiblemask.html). 
-
-+ This is to be presented to the class next week. 
-
-+ Check course content folder for Week 6 to see worksheet that should help you map out your presentation.
++ Make a full body experience emoji creator with PoseNet! see what you could do with p5.js capabilities <i>(like making shapes of the body)</i> & see what you could also do with [Teachable Machine](https://teachablemachine.withgoogle.com/)if you want to push the boundaries!!! 
 
 **Recommended Reading:**  
 
