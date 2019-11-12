@@ -149,7 +149,7 @@ Perez, C. C. (2019). Invisible women: Exposing data bias in a world designed for
 Seminar: Introduction Lesson
 \\\\ Intro to Alex Fefegha's practice and his work exploring AI & creativity. We will then read "Man Computer Man-Computer Symbosis" & share our thoughts on it.
 
-**Assignment:**  
+**Homework:**  
 
 + Read:
 N/A
@@ -166,7 +166,7 @@ N/A
 Studio: Experiential Futures
 \\\\ An introduction to Experiential Futures, a brief history on future studies, exploring how futures and design intersect with each other & conducting a ethnographic experiential futures exercise.
 
-**Assignment:**  
+**Homework:**  
 
 + Read:
 [Future-Oriented Design](https://medium.com/thoughts-and-reflections/future-oriented-design-c8b4a458a722)
@@ -194,7 +194,7 @@ Kirby, D. (2010). The future is now: Diegetic prototypes and the role of popular
 Studio: The Anatomy of An AI System
 \\\\  An introduction to machine learning + creativity and the tools/frameworks used to make cool stuff! (ML5.js)
 
-**Assignment:**  
+**Homework:**  
 
 + Watch:
 [Body, Movement, Language](https://www.billtjonesai.com/)
@@ -230,7 +230,7 @@ Agüera y Arcas, B. (2017). Art in the Age of Machine Intelligence. Arts, 6, 18
 Seminar/Studio: How do we as creatives explore with a future with AI?
 \\\\  An introduction to Future Crafting, A Speculative Method for an Imaginative AI by Betti Marenko and exploring ImageNet, and creating our own image classifier with ML5 & P5.
 
-**Assignment:**  
+**Homework:**  
 
 + Reflect: With the image classifier that you created in class, try it out on ten different objects around you. Does the image classifier give a high confidence score? Did it succeed in recognizing an object? Think about the different things that could or may affect the image classification? Use this [list](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a) of 1000 ImageNet Classes to guide you too.
 
@@ -258,7 +258,7 @@ Marenko, B. (2018) FutureCrafting. A Speculative Method for an Imaginative AI. I
 Studio: Invisible Mask
 \\\\  An introduction to Alex's project exhibited at MozFest2019 which was a speculative provocation exploring the attack on human agency and autonomy by facial recognition technologies and the introduction to retraining a machine learning model.
 
-**Assignment:**  
+**Homework:**  
 
 + Try to finish the feature extraction with image classification example that Alex was teaching in lesson using [Visual Studio Code](https://code.visualstudio.com/). The p5.js sketch is [here](https://editor.p5js.org/fefegha/sketches/-lqWn6k9Y)
 
@@ -282,7 +282,7 @@ Blas Z (2016) Infomatic opacity. In: The Black Chamber: Surveillance, Paranoia, 
 Studio: Recap
 \\\\  An introduction to the essay for this module, a recap on what has been taught so far & play with PoseNet again!
 
-**Assignment:**  
+**Homework:**  
 
 + Make a full body experience emoji creator with PoseNet! see what you could do with p5.js capabilities <i>(like making shapes of the body)</i> & see what you could also do with [Teachable Machine](https://teachablemachine.withgoogle.com/)if you want to push the boundaries!!! 
 
@@ -305,5 +305,41 @@ Hebron, P. (2016). [Machine Learning for Designers](https://www.oreilly.com/libr
 [CCI's very own Rebecca Fiebrink talking about Machine Learning for Human Creative Practice](https://vimeo.com/287094397)
 
 [Machine learning for artists](https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097)
+
+---
+
+### Week 7 13th November
+Interactive Seminar: It's all in the data!
+\\\\ The class will be an introduction by Alex to creating data sets to train a machine learning model. [Alice Stewart](http://alicestewwwart.com/) will be sharing about her latest [creative machine learning](https://ai.tattoo/) project.
+
+**Homework:**  
+
++ Think about how machine learning can assist you in your project for your Creative Practice: Visual Coding and Physical Computing Class. Think about what are the data sets you need? Do you need to create them from the blank canvas or you could source data sets from else where? 
+
++ This should be put together for a 3 minute presentation next week!
+
+**Recommended Reading:**  
+ 
+N/A
+
+**Resources:**
+
+[Data Collection + Evaluation](https://pair.withgoogle.com/chapter/data-collection/#section1)
+
+[What is the Difference Between Test and Validation Datasets?](https://machinelearningmastery.com/difference-test-validation-datasets/)
+
+[Tabular Data - Working With Data & APIs in JavaScript](https://www.youtube.com/watch?v=RfMkdvN-23o&feature=youtu.be)
+
+[What is JSON?](https://www.youtube.com/watch?v=_NFkzw6oFtQ&feature=youtu.be)
+
+[How to Build A Data Set For Your Machine Learning Project](https://towardsdatascience.com/how-to-build-a-data-set-for-your-machine-learning-project-5b3b871881ac)
+
+[JSON vs CSV](https://www.educba.com/json-vs-csv/)
+
+[How I'm fighting bias in algorithms by Joy Buolamwini](https://www.youtube.com/watch?v=UG_X_7g63rY)
+
+[How to keep human bias out of AI by Kriti Sharma](https://www.youtube.com/watch?v=BRRNeBKwvNM)
+
+[Racial Bias and Gender Bias Examples in AI systems](https://medium.com/thoughts-and-reflections/racial-bias-and-gender-bias-examples-in-ai-systems-7211e4c166a1)
 
 ---
