@@ -308,7 +308,7 @@ Hebron, P. (2016). [Machine Learning for Designers](https://www.oreilly.com/libr
 
 ---
 
-### Week 7 13th November
+### Week 7 (13th November)
 Interactive Seminar: It's all in the data!
 \\\\ The class will be an introduction by Alex to creating data sets to train a machine learning model. [Alice Stewart](http://alicestewwwart.com/) will be sharing about her latest [creative machine learning](https://ai.tattoo/) project.
 
@@ -344,7 +344,7 @@ N/A
 
 ---
 
-### Week 8 20th November
+### Week 8 (20th November)
 Studio: Neural Networks
 \\\\ Introduction to neural networks, how to construct your own DIY neural network and train a classification model.
 
