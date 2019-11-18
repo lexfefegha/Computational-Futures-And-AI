@@ -343,3 +343,41 @@ N/A
 [Racial Bias and Gender Bias Examples in AI systems](https://medium.com/thoughts-and-reflections/racial-bias-and-gender-bias-examples-in-ai-systems-7211e4c166a1)
 
 ---
+
+### Week 8 20th November
+Studio: Neural Networks
+\\\\ Introduction to neural networks, how to construct your own DIY neural network and train a classification model.
+
+**Homework:**  
+
++ Watch the series on [Color Classifier by the Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bmMRCIoTi72aNWHo7epX4L) on Youtube. 
+
++ Train a model on a color classifier data set in p5 + ml5.js, not Tensorflow.js! 
+
++ I have left you an example of my [code](https://editor.p5js.org/fefegha/sketches/d1-DYwuXK).
+
+**Recommended Reading:**  
+ 
+Boden, M. A. (2009). Computer Models of Creativity. AI Magazine, 30(3), p.23.
+
+**Resources:**
+
+[NeuralNetwork (ml5.js)](https://learn.ml5js.org/docs/#/reference/neural-network)
+
+[Nature of Code - Chapter 10. Neural Networks](https://natureofcode.com/book/chapter-10-neural-networks/)
+
+[Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
+
+[Perceptron — Deep Learning Basics](https://hackernoon.com/perceptron-deep-learning-basics-3a938c5f84b6)
+
+[What the Hell is Perceptron?](https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53)
+
+[Neural Networks by Google Developers](https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/video-lecture)
+
+[Activation Functions in Neural Networks](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
+
+[Neural Networks - Intelligence and Learning by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Y7MdSCaIfsxc561QI0U0Tb)
+
+[The Danger of AI is weirder than you think by Janelle Shane](https://www.ted.com/talks/janelle_shane_the_danger_of_ai_is_weirder_than_you_think?language=en)
+
+---
