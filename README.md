@@ -232,7 +232,12 @@ Seminar/Studio: How do we as creatives explore with a future with AI?
 
 **Homework:**  
 
-+ Reflect: With the image classifier that you created in class, try it out on ten different objects around you. Does the image classifier give a high confidence score? Did it succeed in recognizing an object? Think about the different things that could or may affect the image classification? Use this [list](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a) of 1000 ImageNet Classes to guide you too.
+With the image classifier that you created in class, try it out on ten different objects around you. 
+Use this [list](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a) of 1000 ImageNet Classes to guide you too.
+
++ Does the image classifier give a high confidence score? 
++ Did it succeed in recognizing an object? 
++ Think about the different things that could or may affect the image classification? 
 
 **Recommended Reading:**  
 
@@ -260,7 +265,9 @@ Studio: Invisible Mask
 
 **Homework:**  
 
-+ Try to finish the feature extraction with image classification example that Alex was teaching in lesson using [Visual Studio Code](https://code.visualstudio.com/). The p5.js sketch is [here](https://editor.p5js.org/fefegha/sketches/-lqWn6k9Y)
+Try to finish the feature extraction with image classification example that Alex was teaching in lesson using [Visual Studio Code](https://code.visualstudio.com/). 
+
+The p5.js sketch is [here](https://editor.p5js.org/fefegha/sketches/-lqWn6k9Y)
 
 **Recommended Reading:**  
 
@@ -284,7 +291,10 @@ Studio: Recap
 
 **Homework:**  
 
-+ Make a full body experience emoji creator with PoseNet! see what you could do with p5.js capabilities <i>(like making shapes of the body)</i> & see what you could also do with [Teachable Machine](https://teachablemachine.withgoogle.com/)if you want to push the boundaries!!! 
+Make a full body experience emoji creator with PoseNet! 
+
++ See what you could do with p5.js capabilities <i>(like making shapes of the body)</i>. 
++ See what you could also do with [Teachable Machine](https://teachablemachine.withgoogle.com/) if you want to push the boundaries!!! 
 
 **Recommended Reading:**  
 
@@ -314,9 +324,10 @@ Interactive Seminar: It's all in the data!
 
 **Homework:**  
 
-+ Think about how machine learning can assist you in your project for your Creative Practice: Visual Coding and Physical Computing Class. Think about what are the data sets you need? Do you need to create them from the blank canvas or you could source data sets from else where? 
+Think about how machine learning can assist you in your project for your Creative Practice: Visual Coding and Physical Computing Class. This should be put together for a 3 minute presentation next week!
 
-+ This should be put together for a 3 minute presentation next week!
++ Think about what are the data sets you need? 
++ Do you need to create them from the blank canvas or you could source data sets from else where? 
 
 **Recommended Reading:**  
  
@@ -345,7 +356,7 @@ N/A
 ---
 
 ### Week 8 (20th November)
-Studio: Neural Networks
+Studio/Lecture: Neural Networks
 \\\\ Introduction to neural networks, how to construct your own DIY neural network and train a classification model.
 
 **Homework:**  
@@ -379,5 +390,45 @@ Boden, M. A. (2009). Computer Models of Creativity. AI Magazine, 30(3), p.23.
 [Neural Networks - Intelligence and Learning by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Y7MdSCaIfsxc561QI0U0Tb)
 
 [The Danger of AI is weirder than you think by Janelle Shane](https://www.ted.com/talks/janelle_shane_the_danger_of_ai_is_weirder_than_you_think?language=en)
+
+---
+
+### Week 9 (27th November)
+Studio/Lecture: CNNs?
+\\\\  Introductions to Convolutional Neural Networks and create your doodle classifier using Google's Quick Draw datasets.
+
+**Homework:**  
+
+Think about what you want to explore in your essay. I would like for you to create a slide deck consisting of:
+
++ a research topic regarding AI
++ ideas about how you might intro
++ ideas of case studies 
++ ideas of how you might conclude
++ any questions you have
+
+Please do send to me on slack for the 4th of Dec. It is not a presentation!
+
+**Recommended Reading:**  
+
+Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Hal Daumé, I., et al. (2018). Datasheets for datasets.
+
+**Resources:**
+
+[Convolutional Neural Networks - Deep Learning Book](https://www.deeplearningbook.org/contents/convnets.html)
+
+[An intuitive guide to Convolutional Neural Networks](https://www.freecodecamp.org/news/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050/)
+
+[Exploring and Visualizing an Open Global Dataset](https://ai.googleblog.com/2017/08/exploring-and-visualizing-open-global.html)
+
+[A visual and intuitive understanding of deep learning (video)](https://www.youtube.com/watch?v=Oqm9vsf_hvU)
+
+[On Missing Data Sets by Mimi Onuoha](https://github.com/MimiOnuoha/missing-datasets)
+
+[Machine learning & art - Google I/O 2016 (video)](https://www.youtube.com/watch?v=egk683bKJYU&t=14s)
+
+[Atlanta Asks Google Whether It Targeted Black Homeless People](https://www.nytimes.com/2019/10/04/technology/google-facial-recognition-atlanta-homeless.html)
+
+[AI ‘EMOTION RECOGNITION’ CAN’T BE TRUSTED](https://www.theverge.com/2019/7/25/8929793/emotion-recognition-analysis-ai-machine-learning-facial-expression-review)
 
 ---
