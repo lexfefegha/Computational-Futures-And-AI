@@ -32,7 +32,7 @@ However if you have not, please do follow the steps in the video with the datase
 ## 5. Attempt to input data set into code that Alex has written
 
 The final step! 
-I already got a p5.js + ml5.js sketch set up with my own doddle classifier.
+I already got a [p5.js + ml5.js sketch](https://editor.p5js.org/fefegha/sketches/eMxONsRSu) set up with my own doddle classifier.
 
 Play with it first, explore how the code works. 
 
