@@ -432,3 +432,41 @@ Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Hal Daum
 [AI ‘EMOTION RECOGNITION’ CAN’T BE TRUSTED](https://www.theverge.com/2019/7/25/8929793/emotion-recognition-analysis-ai-machine-learning-facial-expression-review)
 
 ---
+
+### Week 10 (3rd December)
+Studio/Lecture: RNNs?
+\\\\  Introduction to Recurrent Neural Networks and generate music using a neural network.
+
+**Homework:**  
+
+Rest over the holidays. 
+
+Maybe do a sketch a day.
+
+**Recommended Reading:**  
+
+Amato, Giuseppe & Behrmann, Malte & Bimbot, Frédéric & Caramiaux, Baptiste & Falchi, Fabrizio & Garcia, Ander &Geurts, Joost & Gibert, Jaume & Gravier, Guillaume & Holken, Hadmut & Koenitz, Hartmut & Lefebvre, Sylvain & Liutkus, Antoine & Lotte, Fabien & Perkis, Andrew & Redondo, Rafael & Turrin, Enrico & Viéville, Thierry & Vincent, Emmanuel. (2019). AI in the media and creative industries. 
+
+Asay, Clark D., Artificial Stupidity (June 4, 2019). 61 William & Mary Law Review (2020, Forthcoming). Available at SSRN: https://ssrn.com/abstract=3399170
+
+**Resources:**
+
+[Illustrated Guide to Recurrent Neural Networks](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9)
+
+[Rohan & Lenny #3: Recurrent Neural Networks & LSTMs](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
+
+[Markov Chains](http://setosa.io/blog/2014/07/26/markov-chains/)
+
+[Neural Nets for Generating Music](https://medium.com/artists-and-machine-intelligence/neural-nets-for-generating-music-f46dffac21c0)
+
+[Computer evolves to generate baroque music!](https://www.youtube.com/watch?v=SacogDL_4JU)
+
+[Recurrent Neural Network Tutorial for Artists](http://blog.otoro.net/2017/01/01/recurrent-neural-network-artist/)
+
+[Writing with the machine](https://www.robinsloan.com/notes/writing-with-the-machine/)
+
+[Four Experiments in Handwriting with a Neural Network](https://distill.pub/2016/handwriting/)
+
+[Connecting with Music Through Magenta.js](https://magenta.tensorflow.org/blog/2018/05/03/connecting-with-magenta-js/)
+
+---
