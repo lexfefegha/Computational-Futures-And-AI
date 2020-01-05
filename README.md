@@ -470,3 +470,55 @@ Asay, Clark D., Artificial Stupidity (June 4, 2019). 61 William & Mary Law Revie
 [Connecting with Music Through Magenta.js](https://magenta.tensorflow.org/blog/2018/05/03/connecting-with-magenta-js/)
 
 ---
+
+### Week 11 (8th Janaury)
+Studio/Lecture: GANs?
+\\\\  Introduction to GANs and using Runway ML.
+
+**Homework:**  
+
+Essay write, write write!
+
+**Recommended Reading:**  
+
+[Edmonds, E. (2018). Algorithmic Art Machines. Arts, 7(3).](https://www.mdpi.com/2076-0752/7/1/3) 
+
+[Broeckmann, A. (2019) The Machine as Artist as Myth. Arts, 8(25).](https://www.mdpi.com/2076-0752/8/1/25)
+
+**Resources:**
+
+[How Generative Models work](https://youtu.be/f-cCpVGoxhY)
+
+[Making Art with Artificial Intelligence: Artists in Conversation (Google I/O'19)](https://www.youtube.com/watch?v=sb69lYnO624&t=11s)
+
+[Animating gAnime with StyleGAN: Part 1](https://towardsdatascience.com/animating-ganime-with-stylegan-part-1-4cf764578e)
+
+[A never-ending stream of AI art goes up for auction](https://www.theverge.com/2019/3/5/18251267/ai-art-gans-mario-klingemann-auction-sothebys-technology)
+
+[This Art Has Been Created by AI. Will Collectors Want It?](https://www.bloomberg.com/news/articles/2019-02-09/ai-art-from-mario-klingemann-memories-of-passersby-to-sell)
+
+[Helena Sarin: Why Bigger Isn’t Always Better With GANs And AI Art](https://www.artnome.com/news/2018/11/14/helena-sarin-why-bigger-isnt-always-better-with-gans-and-ai-art)
+
+[We Made Our Own Artificial Intelligence Art, and So Can You](https://www.wired.com/story/we-made-artificial-intelligence-art-so-can-you/)
+
+[Who should get the credit for AI art?](https://edition.cnn.com/style/article/ai-art-who-should-get-credit-conversation/index.html)
+
+[AI Art Gallery](http://www.aiartonline.com/)
+
+[With AI Art, Process Is More Important Than the Product](https://www.smithsonianmag.com/innovation/with-ai-art-process-is-more-important-than-product-180970559/)
+
+[Using AI to Produce “Impossible” Tulips](https://hyperallergic.com/487261/anna-ridler-tulipmania/)
+
+---
+
+### Week 12 (15th Janaury)
+Studio/Lecture: Office hours sessions
+\\\\  30 minute slots to talk about essay. Please check Futures Slack Group to book a session. No lesson.
+
+---
+
+### Week 13 (22th Janaury)
+Studio/Lecture: Essay hand in at 4pm! (possible lesson as well)
+\\\\  Focus on getting it done if you need too. If you are done, we could learn how to build bots. 
+
+---
